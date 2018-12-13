@@ -7,6 +7,7 @@ gi et1x000;
 lunix3-4k;
 vuduo;
 vuduo2;
+vuduo4k;
 vusolo;
 vusolo2;
 vusolo4k;
