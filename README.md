@@ -3,7 +3,10 @@
 
 Бинарники предназначены для поддержки модулей CI+ на официальных имиджах OpenPli https://openpli.org/download/
 Поддерживаемые модели ресиверов:
+
 gi et1x000;
+gbquad4k;
+gbue4k;
 lunix3-4k;
 vuduo;
 vuduo2;
