@@ -2,25 +2,25 @@
 Поддержка https://tvfaq.net && https://gisclub.tv && https://giclub.tv
 
 Бинарники предназначены для поддержки модулей CI+ на официальных имиджах OpenPli https://openpli.org/download/
-Поддерживаемые модели ресиверов:
+#Поддерживаемые модели ресиверов:
 
-gi et1x000;
-gbquad4k;
-gbue4k;
-lunix3-4k;
-vuduo;
-vuduo2;
-vuduo4k;
-vusolo;
-vusolo2;
-vusolo4k;
-vusolose;
-vuultimo;
-vuultimo4k;
-vuuno;
-vuuno4k;
-vuuno4kse;
-vuzero4k
+*gi et1x000;
+*gbquad4k;
+*gbue4k;
+*lunix3-4k;
+*vuduo;
+*vuduo2;
+*vuduo4k;
+*vusolo;
+*vusolo2;
+*vusolo4k;
+*vusolose;
+*vuultimo;
+*vuultimo4k;
+*vuuno;
+*vuuno4k;
+*vuuno4kse;
+*vuzero4k
 
 Для замены бинарника останавливаем энигму командой в телнет init 4
 
