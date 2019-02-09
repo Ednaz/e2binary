@@ -1,3 +1,3 @@
-# NEW release OpenPli 7.0
+### NEW release OpenPli 7.0
 
 * Compile 20190209
