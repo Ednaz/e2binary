@@ -10,6 +10,7 @@
 * gbquad4k
 * gbue4k 
 * lunix3-4k
+* lunix4k
 * vuduo
 * vuduo2
 * vuduo4k
