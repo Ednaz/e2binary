@@ -34,8 +34,8 @@
 
 Далее reboot
 
-Для автоматической установки используем установочный пакет 
-![ciplusinstall](https://github.com/Ednaz/e2binary/blob/master/enigma2-plugin-systemplugins-ciplusinstall_1.6-r0-openpli_7.0-release_7.1-release_all.ipk?raw=true)
-### enigma2-plugin-systemplugins-ciplusinstall_1.6-r0-openpli_7.0-release_7.1-release_all.ipk
+Для автоматической установки используем установочный пакет
+
+![enigma2-plugin-systemplugins-ciplusinstall_1.6-r0-openpli_7.0-release_7.1-release_all.ipk](https://github.com/Ednaz/e2binary/blob/master/enigma2-plugin-systemplugins-ciplusinstall_1.6-r0-openpli_7.0-release_7.1-release_all.ipk?raw=true)
 
 #### Не забываем делать привязку модуля по провайдеру в плагине commoninterfaceassignment, если используем ЭМУ.
