@@ -7,6 +7,7 @@
 ## Поддерживаемые модели ресиверов:
 
 * gi et11000
+* formuler4turbo
 * gbquad4k
 * gbue4k 
 * lunix3-4k
@@ -31,8 +32,8 @@
 
 Файл `enigma.pyo` ложим по пути `/usr/lib/enigma2/python/`
 
-Для ресиверов gi et11000, gbquad4k, gbue4k, lunix3-4k, lunix4k, vuduo, vusolo, vuultimo, vuuno
-скопируйте сертификаты в `/etc/ssl/certs/` и присвойте им права **777**
+Для ресиверов gi et11000, formuler4turbo, gbquad4k, gbue4k, lunix3-4k, lunix4k, vuduo, vusolo, vuultimo, vuuno
+скопируйте сертификаты в `/etc/ssl/certs/` и присвойте им права `777`
 
 Далее reboot
 
