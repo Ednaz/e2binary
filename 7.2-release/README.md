@@ -1,3 +1,3 @@
 ### release OpenPli 7.2
 
-* Compile 20200130
+* Compile 20200306
