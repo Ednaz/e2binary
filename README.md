@@ -28,7 +28,7 @@
 
 Файл `enigma.pyo` ложим по пути `/usr/lib/enigma2/python/`
 
-Для ресиверов gi et11000, formuler4turbo, gbquad4k, gbue4k, lunix3-4k, lunix4k, vuduo, vusolo, vuultimo, vuuno
+Для ресиверов gi et11000, formuler4turbo, gbquad4k, gbue4k, lunix3-4k, lunix4k
 скопируйте сертификаты в `/etc/ssl/certs/` и присвойте им права `777`
 
 Далее reboot
