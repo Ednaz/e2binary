@@ -35,7 +35,7 @@
 
 Для автоматической установки используем установочный пакет
 
-![enigma2-plugin-systemplugins-ciplusinstall_1.7-r0-openpli_7.0-rel_7.1-rel_7.2-rel_all.ipk](https://github.com/Ednaz/e2binary/raw/master/enigma2-plugin-systemplugins-ciplusinstall_1.7-r0-openpli_7.0-rel_7.1-rel_7.2-rel_all.ipk)
+![enigma2-plugin-systemplugins-ciplusinstall_1.7-r0-openpli_7.0-rel_7.1-rel_7.2-rel_8.0-rel.all.ipk](https://github.com/Ednaz/e2binary/blob/master/enigma2-plugin-systemplugins-ciplusinstall_1.8-r1-openpli_7.0-release_7.1-release_7.2-release_8.0-release_all.ipk)
 
 Перед автоматической установкой выполните в консоле команду
 `opkg update && opkg install wget`
